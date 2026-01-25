@@ -158,4 +158,23 @@ h2 {
         width: 150px;
         margin-bottom: 20px;
     }
+    /* 新增：项目摘要样式 */
+.paper-abstract {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 1.5;
+    max-width: 95%; /* 防止文字太宽 */
+}
+
+/* 强调红色文字（用于招募实习状态） */
+strong {
+    color: #333;
+}
+
+/* 针对 FontAwesome 图标的微调 */
+i {
+    margin-right: 3px;
+}
 }
