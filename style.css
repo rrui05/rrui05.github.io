@@ -177,4 +177,14 @@ strong {
 i {
     margin-right: 3px;
 }
+/* Experience 板块内的列表样式 */
+.paper-abstract ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+.paper-abstract li {
+    margin-bottom: 5px;
+    color: #555;
+}
 }
